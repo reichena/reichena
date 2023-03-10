@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reichena
-- 👀 I’m interested in Embedded Systems, Computer Vision
-- 🌱 I’m currently learning CV using OpenCV with GPU acceleration
+- 👀 I’m interested in Embedded Systems, Computer Vision, Computer Graphics
+- 🌱 I’m currently learning CV and CG using OpenCV and Open3D
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
